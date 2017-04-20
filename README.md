@@ -1,4 +1,4 @@
-# Directions for Problem 1
+# Directions for Problem 0
 
 Hand-In Procedure 
 1. Save Save your code in ps0.py . Do not ignore this step or save your file(s) with different names. 
